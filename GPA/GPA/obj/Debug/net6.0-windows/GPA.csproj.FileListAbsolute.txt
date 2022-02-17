@@ -1,0 +1,7 @@
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.Form1.resources
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.csproj.GenerateResource.cache
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.AssemblyInfo.cs
+C:\Users\Admin\Documents\GitHub\GPA-\GPA\GPA\obj\Debug\net6.0-windows\GPA.csproj.CoreCompileInputs.cache
